@@ -1,5 +1,5 @@
 # hello-world
-I Live in AUS
+I live in AUS
 
 I like PYTHON 3
 
